@@ -1,0 +1,2 @@
+[0513/071107.622:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[0513/071236.742:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
